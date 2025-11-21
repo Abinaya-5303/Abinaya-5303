@@ -49,33 +49,6 @@
 
 ---
 
-## 💜 **GitHub Stats**
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbinayaKannan&show_icons=true&theme=purple_night&hide_border=false" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AbinayaKannan&theme=purple_night" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbinayaKannan&layout=compact&theme=purple_night" />
-</p>
-
----
-
-## 🐍 **Profile Activity Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbinayaKannan/AbinayaKannan/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌟 **Aesthetic Profile Badges**
-<p align="center">
-  <img src="https://img.shields.io/badge/Aesthetic%20Coder-%F0%9F%8C%88-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java%20Developer-%F0%9F%92%BB-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Girl-%F0%9F%92%96-pink?style=for-the-badge" />
-</p>
-
----
 
 ## 💌 **Let’s Connect**
 <p align="left">
