@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=2800&color=BB9DFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abinaya+%F0%9F%8C%9F;Full+Stack+Developer+%F0%9F%92%BB;MCA+Graduate+2025+%F0%9F%8E%93;Welcome+to+my+GitHub+Profile+%F0%9F%92%96" />
 </h1>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="/mnt/data/9e6e6328-efdb-4400-ac5c-e0f8af4052ce.png" 
-       width="180" 
-       style="border-radius: 50%; box-shadow: 0 0 25px #b19cd9;">
-</p>
-
 ---
 
 ## 🌸 **About Me**
